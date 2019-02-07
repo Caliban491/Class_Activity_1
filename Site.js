@@ -1,3 +1,3 @@
 function showAlert() {
-  alert("This button has been clicker!");
+  alert("I have always wondered about integration");
 }
